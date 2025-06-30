@@ -1,4 +1,4 @@
-# anime-catalog-php-mysql
+# anime-catalog
 
 **Aniverse** é um projeto de estudo para desenvolvimento de uma plataforma web de catálogo de animes, simulando uma futura plataforma de streaming.
 
